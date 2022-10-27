@@ -1,0 +1,1 @@
+# dynamic_encrypted_qr_using_python
